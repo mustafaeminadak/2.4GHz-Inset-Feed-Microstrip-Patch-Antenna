@@ -1,0 +1,70 @@
+{
+    "parameters": [
+        {
+            "expr": "76.8",
+            "name": "Ws",
+            "value": "76.8"
+        },
+        {
+            "expr": "59.4",
+            "name": "Ls",
+            "value": "59.4"
+        },
+        {
+            "expr": "1.6",
+            "name": "Hs",
+            "value": "1.6"
+        },
+        {
+            "expr": "38",
+            "name": "Wp",
+            "value": "38"
+        },
+        {
+            "expr": "29",
+            "name": "Lp",
+            "value": "29"
+        },
+        {
+            "expr": "0.035",
+            "name": "Hp",
+            "value": "0.035"
+        },
+        {
+            "expr": "5.1",
+            "name": "Wg",
+            "value": "5.1"
+        },
+        {
+            "expr": "9",
+            "name": "Lg",
+            "value": "9"
+        },
+        {
+            "expr": "3.1",
+            "name": "Wf",
+            "value": "3.1"
+        },
+        {
+            "expr": "23.9",
+            "name": "Lf",
+            "value": "23.9"
+        },
+        {
+            "expr": "76.8",
+            "name": "Wgr",
+            "value": "76.8"
+        },
+        {
+            "expr": "59.4",
+            "name": "Lgr",
+            "value": "59.4"
+        },
+        {
+            "expr": "0.035",
+            "name": "Hg",
+            "value": "0.035"
+        }
+    ],
+    "version": 1
+}
